@@ -3,7 +3,7 @@
 
 
  Currently working on E.V.O Search for Eden.
-  - basic graphics decompression script working with the help of AI. it seems to decompress the graphics just fine, but im sure it still needs work. Havent dealt with recompression just yet as some early tests were unsuccessful. Will come back to that soon. 
+  - basic graphics decompression script working with the help of AI. it seems to decompress most graphics just fine, but im sure it still needs work. Havent dealt with recompression just yet as some early tests were unsuccessful. Will come back to that soon. 
 
   Usage: python decomptest.py <offset> [rom_file] [--special]
  
